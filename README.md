@@ -4,6 +4,10 @@
   <a target="blank"><img src="./src/img/calculator.png" width="400" heigth="400" alt="EasyCal App" /></a>
 </p>
 
+### This calculator allows you to perform mathematical operations and preview the result before pressing the equal button. React Native and Typescript were used, for Android and iOS platforms.
+
+##
+
 ## Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
